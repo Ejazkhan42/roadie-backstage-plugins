@@ -1,5 +1,5 @@
 [build]
   command = "yarn tsc && yarn build"
   commandOrigin= "config"
-  publish= "/opt/build/repo/dist"
+  publish= "/opt/build/repo/opt/build/repo/dist"
   publishOrigin="config"
